@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gan Heat</string>
+    <string name="Success">Success!!!</string>
+    <string name="Fail">Fail :-( </string>
+    <string name="TempDefaultMin">36.0</string>
+    <string name="TempDefaultMax">36.5</string>
+    <string name="SavedTempMinName">savedTempMin</string>
+    <string name="SavedTempMaxName">savedTempMax</string>
+
+
+    <!--fill out all these values below before you run the app-->
+    <string name="ChildName"></string>
+    <string name="TZ"></string>
+    <string name="ParentName"></string>
+    <string name="CellPoneNumber"></string>
+    <string name="ChildBirthYear"></string>
+    <string name="ChildBirthMonth"></string>
+    <string name="ChildBirthDay"></string>
+
+</resources>
